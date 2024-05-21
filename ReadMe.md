@@ -31,11 +31,11 @@ If you want to use a different set of questions, simply replace the MMLU_QandA.j
 For use with other APIs adjust call_api function.
 
 ## Contributing
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
+Fork the repository.<br>
+Create a new branch (git checkout -b feature-branch).<br>
+Make your changes.<br>
+Commit your changes (git commit -am 'Add new feature').<br>
+Push to the branch (git push origin feature-branch).<br>
 Create a new Pull Request.
 
 ## License
