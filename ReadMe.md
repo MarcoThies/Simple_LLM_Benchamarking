@@ -21,10 +21,11 @@ The script was only used and tested under Windows 11 and might require adjustmen
 
 To run the benchmarking script, use the following command:
 python runTest.py
+
 The script will load the questions from MMLU_QandA.json and execute the benchmarking process, outputting the results to the console.
 
 Be aware that the script only accepts single letter responses and otherwise rerequests the response. 
-To avoid getting caught in infiinite loops with smaller models adjust the ensure_single_character_response function accordingly. 
+To avoid getting caught in infinite loops with smaller models adjust the ensure_single_character_response function accordingly. 
 
 ## Customization
 If you want to use a different set of questions, simply replace the MMLU_QandA.json file with your own JSON file following the same structure.
