@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a simple Python script designed to perform basica benchmarking on Ollama LLMs using a set of multiple-choice questions and answers. The goal of this script is to provide a basic yet effective way to measure the performance of different LLMs and quantisiations.
+This repository contains a simple Python script designed to perform basic benchmarking on Ollama LLMs using a set of multiple-choice questions and answers. The goal of this script is to provide a basic yet effective way to measure the performance of different LLMs and quantisiations on a given LLM-serving infrastructure.
 
 ## Files in This Repository
 
